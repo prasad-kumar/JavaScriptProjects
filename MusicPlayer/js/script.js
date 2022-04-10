@@ -39,13 +39,13 @@ const files = [
     name: "Hey Mama",
     music: "hey mama.mp3",
     img: "hey mama.jpg",
-    artist: "Alan Walker",
+    artist: "David Guetta",
   },
   {
     name: "Infinity",
     music: "infinity.mp3",
     img: "infinity.jpg",
-    artist: "Alan Walker",
+    artist: "Jaymes young",
   },
 ];
 

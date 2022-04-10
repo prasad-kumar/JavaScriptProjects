@@ -81,7 +81,7 @@ const isCollide = (a, b) => {
 const endGame = () => {
   player.start = false;
   startScreen.classList.remove("hide");
-  startScreen.innerHTML = `Game Over <br> Your Final score is ${player.score} <br> Press here to restart the game`;
+  startScreen.innerHTML = `Game Over <br> Your Final score is ${(player.score + 1)} <br> Press here to restart the game`;
 };
 
 const moveLines = () => {
